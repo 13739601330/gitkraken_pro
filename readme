@@ -4,10 +4,7 @@ RUSH B!!!
 [testing git diff]
 HEAD
 stat
-cached
-   
+cached test commit -a
 
-
-   test commit -am
 
 
